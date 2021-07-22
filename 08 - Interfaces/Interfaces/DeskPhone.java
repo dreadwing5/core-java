@@ -50,4 +50,8 @@ public class DeskPhone implements ITelephone {
 
     }
 
+    public void powerOff() {
+        System.out.println("Shutting off the deskphone, goodbye");
+    }
+
 }

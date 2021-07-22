@@ -1,7 +1,14 @@
 public class Main {
 
     public static void main(String[] args) {
-        ITelephone sachinPhone;
+        // DeskPhone deskPhone = new DeskPhone(1234567);
+
+        // ITelephone cellphone = deskPhone;
+
+        // ITelephone sachinPhone = new DeskPhone(1234567);
+
+        ITelephone sachinphone;
+
         sachinPhone = new DeskPhone(1234567890);
         sachinPhone.powerOn();
         sachinPhone.callPhone(1234567890);
