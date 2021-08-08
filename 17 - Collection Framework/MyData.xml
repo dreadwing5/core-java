@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Laptop</comment>
+<entry key="Brand">Dell</entry>
+<entry key="Year">2010</entry>
+<entry key="Price">3000</entry>
+<entry key="Color">Black</entry>
+<entry key="Model">XPS</entry>
+<entry key="VIN">123456789</entry>
+</properties>

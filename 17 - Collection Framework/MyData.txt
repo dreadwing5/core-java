@@ -1,0 +1,8 @@
+#Laptop
+#Sun Aug 08 12:01:01 IST 2021
+Brand=Dell
+Year=2010
+Price=3000
+Color=Black
+Model=XPS
+VIN=123456789
